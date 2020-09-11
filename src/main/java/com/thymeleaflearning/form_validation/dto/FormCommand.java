@@ -8,4 +8,21 @@ import lombok.Data;
  **/
 @Data
 public class FormCommand {
+
+    public String textField;
+
+    public String textareaField;
+
+    public String colorField;
+
+    public String datetimeField;
+
+    public boolean singleCheckboxField;
+
+    public String[] multiCheckboxSelectedValues;
+
+    public String radioButtonSelectValue;
+
+    public String dropdownSelectedValue;
+
 }
