@@ -21,7 +21,7 @@ public class FormCommand {
 
     public String[] multiCheckboxSelectedValues;
 
-    public String radioButtonSelectValue;
+    public String radioButtonSelectedValue;
 
     public String dropdownSelectedValue;
 
